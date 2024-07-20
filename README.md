@@ -2,7 +2,7 @@
 
 Sou o Danillo Cunha sou Dev Back End em formação , atualmente estou estudando:
 
-<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://www.gratispng.com/baixar/linguagem-de-programa%C3%A7%C3%A3o-ruby.html)"/>
+RUBY
 
   e continuando o aprendizado de
    <br>
